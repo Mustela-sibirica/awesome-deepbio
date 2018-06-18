@@ -2,6 +2,7 @@
 
 A curated list of awesome deep learning applications in the field of computational biology
 
+- **2007-08** | Fast model-based protein homology detection without alignment | *Sepp Hochreiter, Martin Heusel, and Klaus Obermayer* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btm247)
 
 - **2012-07** | Deep architectures for protein contact map prediction | *Pietro Di Lena, Ken Nagata and Pierre Baldi* [Bioinformatics](https://doi.org/10.1093/bioinformatics/bts475)
 
@@ -14,6 +15,8 @@ A curated list of awesome deep learning applications in the field of computation
 - **2014-10** | DANN: a deep learning approach for annotating the pathogenicity of genetic variants  | *Daniel Quang, Yifei Chen and Xiaohui Xie* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btu703)
 
 - **2014-11** | Pairwise input neural network for target-ligand interaction prediction | *Caihua Wang, Juan Liu, Fei Luo, Yafang Tan, Zixin Deng, Qian-Nan Hu* | [2014 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://doi.org/10.1109/BIBM.2014.6999129)
+
+- **2014-12** | Deep learning as an opportunity in virtual screening | *Thomas Unterthiner, Andreas Mayr, Günter Klambauer, Marvin Steijaert, Jörg K. Wegner, Hugo Ceulemans, & Sepp Hochreiter* | [In Proceedings of the Deep Learning Workshop at NIPS](http://www.datascienceassn.org/sites/default/files/Deep%20Learning%20as%20an%20Opportunity%20in%20Virtual%20Screening.pdf).
 
 - **2015-01** | Unsupervised feature construction and knowledge extraction from genome-wide assays of breast cancer with denoising autoencoders. | *Jie Tan, Matt Ung, Chao Cheng, Casey Greene* | [Pacific Symposium on Biocomputing (PSB)](https://doi.org/10.1142/9789814644730_0014) | [Models & Data](http://discovery.dartmouth.edu/~cgreene/da-psb2015/)
 
@@ -57,6 +60,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-01** | Deep Learning in Drug Discovery | *Erik Gawehn, Jan A. Hiss and Gisbert Schneider* | [Molecular Informatics](https://doi.org/10.1002/minf.201501008)
 
+- **2016-02** | DeepTox: toxicity prediction using deep learning | *Andreas Mayr, Günter Klambauer, Thomas Unterthiner, and Sepp Hochreiter* | [Frontiers in Environmental Science](http://journal.frontiersin.org/article/10.3389/fenvs.2015.00080/full) 
+
 - **2016-02** | Gene expression inference with deep learning | *Yifei Chen, Yi Li, Rajiv Narayan, Aravind Subramanian, Xiaohui Xie* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btw074)
 
 - **2016-02** | Semi-Supervised Learning of the Electronic Health Record for Phenotype Stratification | *Brett Beaulieu-Jones, Casey Greene* | [bioRxiv](https://doi.org/10.1101/039800)
@@ -93,8 +98,6 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-05** | Deep learning applications for predicting pharmacological properties of drugs and drug repurposing using transcriptomic data | *Alexander Aliper, Sergey Plis, Artem Artemov, Alvaro Ulloa, Polina Mamoshina, and Alex Zhavoronkov* | [ACS Molecular Pharmaceutics](https://doi.org/10.1021/acs.molpharmaceut.6b00248)
 
-- **2016-05** | Accurate prediction of single-cell DNA methylation states using deep learning | *Christof Angermueller, Heather Lee, Wolf Reik, Oliver Stegle* | [Biorxiv](https://doi.org/10.1101/055715)
-
 - **2016-05** | Deep Machine Learning provides state-of-the-art performance in image-based plant phenotyping | *Michael P. Pound, Alexandra J. Burgess, Michael H. Wilson, Jonathan A. Atkinson, Marcus Griffiths, Aaron S. Jackson, Adrian Bulat, Yorgos Tzimiropoulos, Darren M. Wells, Erik H. Murchie, Tony P. Pridmore, Andrew P. French* | [Biorxiv](https://doi.org/10.1101/053033)
 
 - **2016-05** | Genetic Architect: Discovering Genomic Structure with Learned Neural Architectures | *Laura Deming, Sasha Targ, Nate Sauder, Diogo Almeida, Chun Jimmie Ye* | [Arxiv](https://arxiv.org/abs/1605.07156v1)
@@ -125,8 +128,6 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2016-09** | The Next Era: Deep Learning in Pharmaceutical Research | *Sean Ekins* | [Pharmaceutical Research](https://dx.doi.org/10.1007/s11095-016-2029-7)
 
-- **2016-09** | Accurate De Novo Prediction of Protein Contact Map by Ultra-Deep Learning Model | *Sheng Wang, Siqi Sun, Zhen Li, Renyu Zhang, Jinbo Xu* | [Arxiv](https://arxiv.org/abs/1609.00680)
-
 - **2016-10** | Automatic chemical design using a data-driven continuous representation of molecules | *Rafael Gómez-Bombarelli, David Duvenaud, José Miguel Hernández-Lobato, Jorge Aguilera-Iparraguirre, Timothy D. Hirzel, Ryan P. Adams, Alán Aspuru-Guzik* | [Arxiv](https://arxiv.org/abs/1610.02415)
 
 - **2016-10** | FIDDLE: An integrative deep learning framework for functional genomic data inference | *Umut Eser, L. Stirling Churchman* | [bioRxiv](http://dx.doi.org/10.1101/081380)
@@ -144,8 +145,6 @@ A curated list of awesome deep learning applications in the field of computation
 - **2016-11** | Diet Networks: Thin Parameters for Fat Genomic | *Adriana Romero, Pierre Luc Carrier, Akram Erraqabi, Tristan Sylvain, Alex Auvolat, Etienne Dejoie, Marc-André Legault, Marie-Pierre Dubé, Julie G. Hussin, Yoshua Bengio* | [Arxiv](https://arxiv.org/abs/1611.09340)
 
 - **2016-11** | DeeperBind: Enhancing Prediction of Sequence Specificities of DNA Binding Proteins | *Hamid Reza Hassanzadeh, May D. Wang* | [Arxiv](https://arxiv.org/abs/1611.05777)
-
-- **2016-11** | Accurate De Novo Prediction of Protein Contact Map by Ultra-Deep Learning Model | *Sheng Wang, Siqi Sun, Zhen Li, Renyu Zhang, Jinbo Xu* | [bioRxiv](https://doi.org/10.1101/073239)
 
 - **2016-11** | Deep learning with feature embedding for compound-protein interaction prediction | *Fangping Wan, Jianyang Zeng* | [bioRxiv](https://doi.org/10.1101/086033)
 
@@ -227,6 +226,8 @@ A curated list of awesome deep learning applications in the field of computation
 
 - **2017-01** | Nucleotide sequence and DNaseI sensitivity are predictive of 3D chromatin architecture | *Jacob Schreiber, Maxwell Libbrecht, Jeffrey Bilmes, William Noble* | [bioRxiv](https://doi.org/10.1101/103614)
 
+- **2017-01** | Accurate De Novo Prediction of Protein Contact Map by Ultra-Deep Learning Model | *Sheng Wang, Siqi Sun, Zhen Li, Renyu Zhang, Jinbo Xu* | [PloS Computational Biology](https://doi.org/10.1371/journal.pcbi.1005324)
+
 - **2017-02** | Imputation for transcription factor binding predictions based on deep learning | *Qian Qin, Jianxing Feng* | [PloS Computational Biology](http://dx.doi.org/10.1371/journal.pcbi.1005403)
 
 - **2017-02** | Deep Learning based multi-omics integration robustly predicts survival in liver cancer | *Kumardeep Chaudhary, Olivier B. Poirion, Liangqun Lu, Lana Garmire* | [bioRxiv](https://doi.org/10.1101/114892)
@@ -234,6 +235,17 @@ A curated list of awesome deep learning applications in the field of computation
 - **2017-03** | Predicting the impact of non-coding variants on DNA methylation | *Zeng, Haoyang, and David K. Gifford* | [Nucleic Acids Research](https://doi.org/10.1093/nar/gkx177)
 
 - **2017-03** | H&E-stained Whole Slide Image Deep Learning Predicts SPOP Mutation State in Prostate Cancer | *Andrew J Schaumberg, Mark A Rubin, Thomas J Fuchs* | [bioRxiv](https://doi.org/10.1101/064279)
+
+- **2017-04** | DeepCpG: accurate prediction of single-cell DNA methylation states using deep learning | *Christof Angermueller, Heather J. Lee, Wolf Reik, and Oliver Stegle* | [Genome Biology](https://doi.org/10.1186/s13059-017-1189-z)
+
+- **2017-04** | Generalising Better: Applying Deep Learning To Integrate Deleteriousness Prediction Scores For Whole-Exome SNV Studies | *Ilia Korvigo, Andrey Afanasyev, Nikolay Romashchenko, Mihail Skoblov* | [bioRxiv](https://doi.org/10.1101/126532)
+
+- **2017-09** | DeepLoc: prediction of protein subcellular localization using deep learning | *José JA Armenteros, Casper K Sønderby, Søren K Sønderby, Henrik Nielsen, Ole Winther* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btx431)
+
+- **2017-11** | Modeling positional effects of regulatory sequences with spline transformations increases prediction accuracy of deep neural networks | *Žiga Avsec, Mohammadamin Barekatain, Jun Cheng, Julien Gagneur* | [Bioinformatics](https://doi.org/10.1093/bioinformatics/btx727)
+
+- **2017-12** | Variational auto-encoding of protein sequences | *Sam Sinai, Eric Kelsic, George M. Church and Martin A. Nowak* | [arxiv](https://arxiv.org/abs/1712.03346)
+
 
 ### Contribution
 
